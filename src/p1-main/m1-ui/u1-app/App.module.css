@@ -1,5 +1,8 @@
 .App {
-    background-image: url(http://cdn.eso.org/images/screen/eso1213a.jpg);
+    background-color: #616161;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
 
 }
 

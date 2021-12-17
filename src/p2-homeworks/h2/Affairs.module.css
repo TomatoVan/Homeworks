@@ -1,0 +1,24 @@
+.wrapper {
+
+}
+
+.name {
+    color: white;
+    margin-right: 15px;
+}
+
+.high {
+    color: red;
+}
+
+.middle {
+    color: orange;
+}
+
+.low {
+    color: greenyellow;
+}
+
+.delete {
+    margin-left: 10px;
+}
