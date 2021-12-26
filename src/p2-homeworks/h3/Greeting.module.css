@@ -1,0 +1,33 @@
+.someClass {
+
+}
+
+.error {
+    outline: none;
+    border: 2px solid red;
+    margin-right: 15px;
+}
+
+.notError {
+    outline: none;
+    border: 2px solid greenyellow;
+    margin-right: 15px;
+}
+
+.errorText {
+    color: darkred;
+    font-weight: bold;
+}
+
+.inputClass {
+    margin-right: 10px;
+}
+
+.button {
+    margin-right: 5px;
+}
+
+.button:disabled {
+    margin-right: 5px;
+    color: grey;
+}
