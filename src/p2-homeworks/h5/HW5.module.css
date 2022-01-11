@@ -1,0 +1,51 @@
+.link {
+    text-decoration: none;
+    color: #2b4353;
+    margin: 10px;
+}
+
+.link:hover {
+    color: #c9f;
+}
+
+.active {
+    color: #e8630a;
+}
+
+.header {
+    display: flex;
+    position: fixed;
+    top: 30px;
+    right: 50px;
+    font-size: 2rem;
+    text-align: center;
+    font-weight: 700;
+    transition-duration: 500ms;
+    transform: translate(0, -100px);
+
+}
+
+.header:hover {
+    transition-duration: 500ms;
+    transform: translate(0);
+}
+
+
+.block {
+    margin-right: 30px;
+    margin-top: 50px;
+    box-sizing: border-box;
+    height: 4vw;
+    width: 4vw;
+    border-style: solid;
+    border-color: white;
+    border-width: 0px 1px 1px 0px;
+    transform: rotate(45deg);
+    transition: border-width 150ms ease-in-out;
+
+}
+
+.block:hover {
+    border-bottom-width: 4px;
+    border-right-width: 4px;
+}

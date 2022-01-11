@@ -1,18 +1,51 @@
 .wrapper {
+    display: flex;
+    justify-content: space-between;
+    margin: 5px;
+}
 
+.button {
+    padding: 5px 10px;
+    font-weight: 400;
+    border-radius: 5px;
+    border: none;
+    background: #0a4b37;
+    margin-right: 10px;
+    color: whitesmoke;
+}
+.button:hover {
+    color: greenyellow;
+    transition: all .1s ease;
+    box-shadow: 0 0 0 0 #fff, 0 0 0 3px #1de9b6;
+}
+
+.delete {
+    padding: 5px 10px;
+    font-weight: 400;
+    border-radius: 5px;
+    border: none;
+    background: #0a4b37;
+    color: whitesmoke;
+}
+.delete:hover {
+    color: greenyellow;
+    transition: all .1s ease;
+    box-shadow: 0 0 0 0 #fff, 0 0 0 3px #1de9b6;
 }
 
 .name {
-    color: white;
+    color: #96c2b3;
     margin-right: 15px;
 }
 
 .high {
     color: red;
+    margin-left: 15px;
 }
 
 .middle {
     color: orange;
+    margin-right: 10px;
 }
 
 .low {

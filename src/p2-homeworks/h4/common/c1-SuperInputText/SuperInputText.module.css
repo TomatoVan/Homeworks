@@ -1,23 +1,27 @@
 .superInput {
-
+    border-radius: 100px;
+    max-width: 300px;
+    display: inline-block;
     margin: 10px;
-    background: #003300;
+    background: #275048;
     color: #99ff99;
 }
 
 .input:focus {
 
-    outline: none;
     border: 1px solid cornflowerblue;
 }
 
 .errorInput {
+    border-radius: 100px;
+    max-width: 300px;
+    display: inline-block;
     margin: 10px;
 
-    background: #003300;
+    background: #275048;
     color: #99ff99;
 
-    border: 2px solid #dd3355;
+    border: 1px solid #dd3355;
 }
 
 .error {
