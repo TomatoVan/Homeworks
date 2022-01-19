@@ -12,7 +12,7 @@ export const PATH = {
 	JUNIOR_PLUS: '/junior-plus'
 }
 
-const Routeses = () => {
+const AllRoutes = () => {
 	return (
 		<div>
 			<Routes>
@@ -22,9 +22,8 @@ const Routeses = () => {
 				<Route path={PATH.JUNIOR_PLUS} element={<JuniorPlus/>}/>
 				<Route path="*" element={<Error404/>}/>
 			</Routes>
-
 		</div>
 	)
 }
 
-export default Routeses
+export default AllRoutes

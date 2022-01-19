@@ -1,5 +1,4 @@
 .default {
-
     margin: 5px;
     display: inline-block;
     outline: none;
@@ -18,8 +17,11 @@
     box-shadow: 0 0 0 0 #fff, 0 0 0 3px #1de9b6;
 }
 
-.red {
+.default:disabled {
+    opacity: 0.6;
+}
 
+.red {
     margin: 5px;
     display: inline-block;
     outline: none;
@@ -37,4 +39,5 @@
     transition: all .1s ease;
     box-shadow: 0 0 0 0 #fff, 0 0 0 3px #1de9b6;
 }
+
 

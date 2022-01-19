@@ -1,0 +1,14 @@
+.spanText {
+    display: block;
+    color: greenyellow;
+    margin: 9px;
+    text-align: center;
+    width: 220px;
+    word-wrap: break-word;
+    cursor: pointer;
+
+}
+
+.buttons {
+    margin: 0 auto;
+}
