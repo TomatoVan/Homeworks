@@ -6,7 +6,7 @@ import AllRoutes from "./Routes";
 
 function HW5() {
 	return (
-		<BrowserRouter>
+		<BrowserRouter basename={process.env.PUBLIC_URL}>
 			<div className={t.wrapper}>
 
 				<Header/>
