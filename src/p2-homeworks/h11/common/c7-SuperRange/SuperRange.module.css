@@ -1,0 +1,8 @@
+.range {
+    margin-bottom: 35px;
+}
+
+.rangeValues {
+    display: flex;
+    justify-content: space-between;
+}
