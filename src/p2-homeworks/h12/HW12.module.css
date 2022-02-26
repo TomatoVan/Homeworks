@@ -1,0 +1,48 @@
+.dark {
+    width: 180px;
+    background: dimgrey;
+    border-radius: 30px;
+
+}
+
+.dark-text {
+    color: aliceblue;
+    width: 180px;
+    border-radius: 30px;
+}
+
+.red {
+    background: lightcoral;
+    width: 180px;
+    border-radius: 30px;
+}
+
+.red-text {
+    color: aqua;
+    width: 180px;
+    border-radius: 30px;
+}
+
+.some {
+    background: lightgreen;
+    width: 180px;
+    border-radius: 30px;
+}
+
+.some-text {
+    color: darkslateblue;
+    width: 180px;
+    border-radius: 30px;
+}
+
+.radio {
+    margin-bottom: 20px;
+    
+}
+
+.selectWrap {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
