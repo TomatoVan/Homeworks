@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Homeworks/static/css/main.62cd4d4c.chunk.css",
+    "main.css": "/Homeworks/static/css/main.d388a052.chunk.css",
     "main.js": "/Homeworks/static/js/main.e66117c6.chunk.js",
     "main.js.map": "/Homeworks/static/js/main.e66117c6.chunk.js.map",
     "runtime-main.js": "/Homeworks/static/js/runtime-main.a295a7eb.js",
@@ -8,14 +8,14 @@
     "static/js/2.0d02425d.chunk.js": "/Homeworks/static/js/2.0d02425d.chunk.js",
     "static/js/2.0d02425d.chunk.js.map": "/Homeworks/static/js/2.0d02425d.chunk.js.map",
     "index.html": "/Homeworks/index.html",
-    "static/css/main.62cd4d4c.chunk.css.map": "/Homeworks/static/css/main.62cd4d4c.chunk.css.map",
+    "static/css/main.d388a052.chunk.css.map": "/Homeworks/static/css/main.d388a052.chunk.css.map",
     "static/js/2.0d02425d.chunk.js.LICENSE.txt": "/Homeworks/static/js/2.0d02425d.chunk.js.LICENSE.txt",
     "static/media/Spin.92abdd2b.svg": "/Homeworks/static/media/Spin.92abdd2b.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.a295a7eb.js",
     "static/js/2.0d02425d.chunk.js",
-    "static/css/main.62cd4d4c.chunk.css",
+    "static/css/main.d388a052.chunk.css",
     "static/js/main.e66117c6.chunk.js"
   ]
 }
